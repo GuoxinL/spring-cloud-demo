@@ -1,0 +1,4 @@
+pub/guoxin/demo/cloud/dr/controller/HelloController.class
+pub/guoxin/demo/cloud/dr/feign/HelloFeignService.class
+pub/guoxin/demo/cloud/dr/feign/HelloFeignProviderHystrix.class
+pub/guoxin/demo/cloud/dr/HelloConsumerApplication.class

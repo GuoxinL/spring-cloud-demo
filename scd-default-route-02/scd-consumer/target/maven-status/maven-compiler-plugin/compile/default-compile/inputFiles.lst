@@ -1,0 +1,4 @@
+/Users/guoxin/code/java/spring-cloud-demo/scd-default-route-02/scd-consumer/src/main/java/pub/guoxin/demo/cloud/dr/feign/HelloFeignProviderHystrix.java
+/Users/guoxin/code/java/spring-cloud-demo/scd-default-route-02/scd-consumer/src/main/java/pub/guoxin/demo/cloud/dr/controller/HelloController.java
+/Users/guoxin/code/java/spring-cloud-demo/scd-default-route-02/scd-consumer/src/main/java/pub/guoxin/demo/cloud/dr/feign/HelloFeignService.java
+/Users/guoxin/code/java/spring-cloud-demo/scd-default-route-02/scd-consumer/src/main/java/pub/guoxin/demo/cloud/dr/HelloConsumerApplication.java
